@@ -14,173 +14,38 @@
                 </tr>
             </thead>
             <tbody>
-                <tr>
-                    <td>07:00 - 08:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>08:00 - 09:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>09:00 - 10:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>10:00 - 11:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>11:00 - 12:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>12:00 - 13:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>13:00 - 14:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>14:00 - 15:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>15:00 - 16:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>16:00 - 17:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>17:00 - 18:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>18:00 - 19:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>19:00 - 20:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>20:00 - 21:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>21:00 - 22:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
-                <tr>
-                    <td>22:00 - 23:00</td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                    <td contenteditable="true"></td>
-                </tr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
+                <TheTr></TheTr>
             </tbody>
         </table>
+        <!-- <div><QuestList></QuestList></div> -->
+        
     </div>
 </template>
 
 <script>
-
+import TheTr from './TheTr.vue'
+// import QuestList from './QuestList.vue'
+export default {
+    components: {
+        TheTr,
+        // QuestList
+    },
+}
 </script>
 
 <style scoped>
@@ -191,6 +56,7 @@ table {
 }
 
 th,
+
 td {
     padding: 15px;
     border: 1px solid #ccc;
@@ -203,24 +69,11 @@ th {
     color: white;
 }
 
-td[contenteditable="true"] {
-    background-color: #f7f9fc;
-    cursor: pointer;
-}
-
-td:hover {
-    background-color: #e9ecef;
-}
-
-td:focus {
-    background-color: #d1ecf1;
-}
-
-tbody tr:nth-child(odd) td {
+tbody tr:nth-child(odd) .tdclass {
     background-color: #f7f9fc;
 }
 
-tbody tr:nth-child(even) td {
+tbody tr:nth-child(even) .tdclass {
     background-color: #e3e7ea;
 }
 </style>
